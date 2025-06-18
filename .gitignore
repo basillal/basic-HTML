@@ -1,0 +1,31 @@
+
+*.sh
+
+# Node
+node_modules/
+dist/
+.env
+package-lock.json
+
+# Angular
+.angular/
+*.tsbuildinfo
+
+# Java
+target/
+*.class
+*.jar
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+*.swp
+
+# IDEs
+.vscode/
+.idea/
